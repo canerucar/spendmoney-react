@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone",
+    "price": 199,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000"
+  },
+  {
+    "id": 2,
+    "title": "Airpods",
+    "price": 99,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1632861342000"
+  },
+  {
+    "id": 3,
+    "title": "Clio",
+    "price": 10000,
+    "image": "https://www.automagg.com/wp-content/uploads/2015/11/ClioConnect.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Macbook",
+    "price": 20000,
+    "image": "https://productimages.hepsiburada.net/s/32/375/10354045747250.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Gemicik",
+    "price": 56000000,
+    "image": "https://gezzio.com/wp-content/uploads/2018/03/msc-yolcu-gemisi-cruise-liner.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Yüzük",
+    "price": 223333,
+    "image": "https://www.peraleda.com/media/image/bf/2a/3676a3ba750b749c29512137277e.png"
+  },
+  {
+    "id": 7,
+    "title": "Villa",
+    "price": 540000,
+    "image": "https://www.villasepeti.com/pics/villa-kozalak/villa-kozalak-sr.jpg"
+  },
+  {
+    "id": 8,
+    "title": "iPad Pro",
+    "price": 1700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Çanta",
+    "price": 1500000,
+    "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Microsoft",
+    "price": 133333,
+    "image": "https://pbs.twimg.com/profile_images/1062993041324171265/CcUjyxc9_400x400.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Ada",
+    "price": 22333333,
+    "image": "https://media.istockphoto.com/photos/tropical-island-picture-id157484556?k=20&m=157484556&s=612x612&w=0&h=m1rYX4iMPX-V0d0gPo1OEo5pCOlROiY5SF8t8TXr9NY="
+  },
+  {
+    "id": 12,
+    "title": "Tekne",
+    "price": 1111111,
+    "image": "https://www.bogazturu.com/uploads/resim/481-1/bogaz-cocugu-tekne-iskele-kic-omuzluk.jpg"
+  }
+]
