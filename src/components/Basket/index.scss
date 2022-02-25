@@ -1,0 +1,33 @@
+@import '../../styles/variables';
+
+.basket-container {
+  padding: 20px;
+  background: $white;
+  border: 1px solid $white-100;
+  margin-bottom: 20px;
+
+  h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .total {
+    border-top: 1px solid $white-100;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    color: $green;
+  }
+}
+
+.basket-reset-btn {
+  background: $green;
+  color: $white;
+  height: 40px;
+  padding: 0 20px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
