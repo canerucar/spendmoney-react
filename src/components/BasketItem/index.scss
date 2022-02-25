@@ -1,0 +1,10 @@
+@import '../../styles/variables';
+
+.basket-item {
+  padding-bottom: 10px;
+  font-size: 17px;
+
+  span {
+    color: $gray;
+  }
+}
